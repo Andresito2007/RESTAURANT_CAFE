@@ -8,7 +8,7 @@ import styl from "../estilos/estilos.module.css";
 function Imagen_principal() {
   return (
     <div className={styl.img}>
-      <img src="https://scontent-lim1-1.xx.fbcdn.net/v/t51.82787-15/636682776_18107216173811193_6437257101950264573_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=pxoZNkqZIIkQ7kNvwGtAPR6&_nc_oc=AdohsFiW79IRIDUe6gI3-qUUEqCuhGOfkHEUL335gEZWbPUVj51JUqcTsxpW5cWnYBQZkPmSnMtn68tZH-mNwxPv&_nc_zt=23&_nc_ht=scontent-lim1-1.xx&_nc_gid=kGlH32C_OtSMuIaMlLcaqQ&_nc_ss=7a30f&oh=00_AfxFHfRoLJuS3lbfCP9L08qJtQsZS88sxruRkt_1Q4tXRQ&oe=69C764B8"></img>
+      <img src="https://valdiviadg.com/wp-content/uploads/2018/10/SOFA-MAGDALENA-1.jpg"></img>
     </div>
     
   );
